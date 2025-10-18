@@ -15,7 +15,7 @@ The analysis utilizes the public Google Analytics sample dataset available on Go
 
   + Transactional Data: Detailed information about purchases, products, and revenue.
 
-## Business Questions & Analytical Strategy (Câu hỏi kinh doanh & Chiến lược phân tích)
+## Business Questions & Analytical Strategy 
 The analysis is structured to answer key business questions by exploring several strategic areas:
 
 **- Website Performance Metrics:** Evaluating core KPIs like visits, pageviews, and transactions to gauge overall site health and user engagement (Query 01).
