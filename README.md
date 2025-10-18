@@ -1,0 +1,2 @@
+# E-commerce-Funnel-and-Customer-Behavior-Analysis-using-Google-Analytics-Data
+This project analyzes the public Google Analytics dataset for the Google Merchandise Store to uncover key business insights. Using SQL in BigQuery, I investigate customer behavior, traffic source effectiveness, and the purchasing funnel so that I identify trends and provide data-driven recommendations to enhance user engagement and drive sales
