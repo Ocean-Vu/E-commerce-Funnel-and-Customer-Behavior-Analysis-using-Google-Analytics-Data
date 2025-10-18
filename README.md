@@ -9,11 +9,11 @@ The analysis utilizes the public Google Analytics sample dataset available on Go
 
 **- Content:** The dataset is deeply nested and contains rich information typical of an e-commerce website, including:
 
-  **+ Traffic Source Data:** The origin of visitors (e.g., Organic, Paid Search, Social).
+  + Traffic Source Data: The origin of visitors (e.g., Organic, Paid Search, Social).
 
-  **+ Content & Behavior Data:** Pages viewed, events triggered, and on-site user interactions.
+  + Content & Behavior Data: Pages viewed, events triggered, and on-site user interactions.
 
-  **+ Transactional Data:** Detailed information about purchases, products, and revenue.
+  + Transactional Data: Detailed information about purchases, products, and revenue.
 
 ## Business Questions & Analytical Strategy (Câu hỏi kinh doanh & Chiến lược phân tích)
 The analysis is structured to answer key business questions by exploring several strategic areas:
