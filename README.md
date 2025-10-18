@@ -44,4 +44,4 @@ The analysis is structured to answer key business questions by exploring several
   + Date functions for time-based analysis.
 
 ## Data Visualization 
-The results from the SQL queries can be exported and visualized
+The results from the SQL queries will be exported and visualized
